@@ -2,7 +2,7 @@ import re
 from collections import Counter
 
 
-with open('access (1).log', 'r', encoding='utf-8') as file:
+with open('Actividad/access (1).log', 'r', encoding='utf-8') as file:
     log_data = file.read()
 
 # Expresión regular
